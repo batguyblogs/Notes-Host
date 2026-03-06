@@ -2,11 +2,13 @@
 publish: true
 comments: true
 created: 2026-03-06T19:20:48.348+05:30
-modified: 2026-03-06T19:25:09.340+05:30
+modified: 2026-03-06T21:18:17.066+05:30
+tags:
+  - EOM
 cssclasses: ""
 ---
 
-An **Organisation*** is a **structured** group of people who **work together** to achieve **common goals and purposes** 
+An **Organization*** is a **structured** group of people who **work together** to achieve **common goals and purposes** 
 
 often characterised by a systematic arrangement of roles, responsibilities, and authority. Established through formal rules and procedures.
 
