@@ -2,11 +2,12 @@
 publish: true
 comments: true
 created: 2026-03-06T18:55:22.671+05:30
-modified: 2026-03-06T19:44:54.750+05:30
+modified: 2026-03-06T20:58:15.523+05:30
+tags:
+  - DetailedNotes
 cssclasses: ""
 ---
 
-#DetailedNotes 
 
 # [[Other Notes/Essentials of Management/Business]]
 
