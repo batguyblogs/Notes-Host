@@ -2,12 +2,13 @@
 publish: true
 comments: true
 created: 2026-03-06T18:55:22.671+05:30
-modified: 2026-03-06T19:37:53.418+05:30
+modified: 2026-03-06T19:44:54.750+05:30
 cssclasses: ""
 ---
 
 #DetailedNotes 
 
+# [[Other Notes/Essentials of Management/Business]]
 
 A business is simply an [[organization]] that strives for a profit by providing goods ( products ) and Services desired by its customers.
 
@@ -17,7 +18,8 @@ A business is simply an [[organization]] that strives for a profit by providing 
 >and **Services** are intangible offerings of businesses that can't be held, touched, or stored. for example consulting,  or labour.
 
 
-# 
+# [[Other Notes/Essentials of Management/Industry]]
+
 
 An Industry refers to an **economic activity** that relates to the **conversion** of *resources* into *useful goods*
 
