@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-07T09:25:51.739+05:30
-modified: 2026-03-07T10:23:50.796+05:30
+modified: 2026-03-07T10:55:35.381+05:30
 tags:
   - DetailedNotes
   - EOM
@@ -70,5 +70,44 @@ in addition to which they have to inform and satisfy the influential people , of
 
 for example:
 Directors and shareholders must be advised about **financial performance**;
+Consumer groups must be assued that the organization is fulfilling its **[[Corporate Social Responsibility\|social responsibility]]**
+Government officials must be satisfied that the organistion is **abiding by the law.**
 
+# Decisional role
 
+## 7. Entrepreneurial role
+the role describes the manager as a voluntary initiator of change
+
+as the entrepreneur they seek to *improve* their unit and *adopt* it to changing conditions in the environment.
+
+the manager is in charge of managing the running of multiple projects and keeping them in balance
+
+## 8. Disturbance Handler role
+a counterpart to the entrepreneurial role where the manager has to respond to changes beyond their control
+
+they have to act as an when the pressures of situations are too severe to be ignored.
+example: 
+rumors of a strike
+major customer going bankrupt
+accidents delaying raw materials.
+
+>[!quote]
+>**Disturbances arise not only because poor managers ignore situations until they reach crisis proportions, but also because good managers cannot possibly anticipate all the consequences of the actions they take.**
+
+## 9. Resource allocator role
+the manager has the responsibility of deciding who will receive what  in their [[Other Notes/Essentials of Management/organization\|organizational]] unit.
+
+the most important resource the manager has to allocate is their own time. 
+
+Access to the manager constitutes exposure to the unit's nerve centre and decision centre. 
+
+the manager is also responsible in designing the unit's structure, and the pattern of formal relationships that determines how work is to be divided and coordinated.
+
+>[!note] also note
+>the resource allocator authorizes any important decisions before they are implemented.
+
+## 10.  Negotiator role
+studies of managerial work at all levels indicate that managers spend considerable time in negotiations. 
+being a large part of the manager's job although routine are to not be avoided or taken lightly 
+
+take a look at the quick notes here [[Other Notes/Essentials of Management/Managerial Roles\|Managerial Roles]]

@@ -2,12 +2,14 @@
 publish: true
 comments: true
 created: 2026-03-07T09:53:05.467+05:30
-modified: 2026-03-07T10:21:40.906+05:30
+modified: 2026-03-07T10:56:08.176+05:30
 tags:
   - quickread
   - EOM
 cssclasses: ""
 ---
+
+Quickly go through Henry Mintzberg's model!
 
 ## Interpersonal roles:
 1. Figurehead role
@@ -40,4 +42,12 @@ cssclasses: ""
 6. Spokesman role
    the manager sens some of their information to people outside their unit
    in addition they have to satisfy the influential people who control their organizational unit 
-7. 
+7. Entrepreneurial role
+   manager is a initiator of change
+   seeks to improve and adopt new condition
+8. Disturbance handler role
+   manager has to all the involuntary responses to pressures
+9. Resource allocator role
+   they have the responsibility of deciding who will receive what in their organization 
+10. Negotiator
+    the manager has to keep on top of taking negotiations seriously
