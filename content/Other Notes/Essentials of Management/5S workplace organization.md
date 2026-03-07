@@ -2,9 +2,10 @@
 publish: true
 comments: true
 created: 2026-03-07T06:54:36.212+05:30
-modified: 2026-03-07T06:59:04.855+05:30
+modified: 2026-03-07T09:40:31.602+05:30
 tags:
   - EOM
+  - quickread
 cssclasses: ""
 ---
 
