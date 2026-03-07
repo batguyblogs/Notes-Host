@@ -2,19 +2,19 @@
 publish: true
 comments: true
 created: 2026-03-06T18:53:20.853+05:30
-modified: 2026-03-07T07:25:26.836+05:30
+modified: 2026-03-07T07:43:26.606+05:30
 tags:
   - DetailedNotes
   - EOM
 cssclasses: ""
 ---
 
-# Henry Fayol 
+# Henri Fayol 
 Also known as the ***"Father of modern management"***, gave a general theory that can be applied to all levels of management and every department.
 
 He envisioned maximizing [[Other Notes/Essentials of Management/manager]]ial efficiency. Today, his theory is practised by the management to organise and regulate the internal activities of an organisation.
 
->[!info]- Principle?
+>[!info] Principle?
 >A **Principle** refers to the fundamental truth.
 >it establishes a *cause and effect* relationship between two or more variables under a given situation. They serve as *guides* to thought and actions.
 
@@ -42,7 +42,7 @@ Also See -> The Japanese [[Other Notes/Essentials of Management/5S workplace org
 
 and [[Other Notes/Principles of Management\|quick notes.]]
 ## 1. Division of Labour
-Henry Fayol stressed on the **specialization of jobs**.
+Henri Fayol stressed on the **specialization of jobs**.
 
 He recommended that work of all kinds must be divided and subdivided and allotted to various persons according to their expertise in a particular area.
 
@@ -91,4 +91,34 @@ He advocates **ONE HEAD ONE PLAN** which means that there should be one plan for
 
 related activities should b grouped together and one "Plan of action" made for them. and then put in charge of one particular [[Other Notes/Essentials of Management/manager]].
 
-the efforts of
+the efforts of all members of the organization should be *directed towards a common goal*
+
+Without unity of direction, unity of action cannot be achieved.
+
+Unity of command requires unity of direction to function!
+
+# [[Other Notes/Essentials of Management/Unity of Command Vs Unity of Direction]]
+
+read ⬆ before continuing
+
+## 5. Equity
+
+means a combination of *fairness*, *kindness*, *& justice*.
+
+It implies that managers **should be fair and impartial** while dealing with the subordinates.
+
+benefits to cordial relations b/w the managers and subordinates.
+
+but equity does not mean total absence of harsness.
+
+>[!quote]
+>"At times force and harshness might become necessary for the sake of quity". 
+>
+>  $-$ Henri Fayol ( allegedly )
+
+# 6. Order
+
+this relates to the **proper & systematic arrangement of things and people.**
+
+arrangement of things is called **Material Order** and placement of people is called **Social order**
+

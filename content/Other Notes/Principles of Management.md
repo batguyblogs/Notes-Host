@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-07T07:05:11.555+05:30
-modified: 2026-03-07T07:23:02.469+05:30
+modified: 2026-03-07T07:41:37.441+05:30
 tags:
   - EOM
 cssclasses: ""
@@ -20,9 +20,12 @@ this leads to profits
 
 authority without responsibility and vice versa will cause problems.
 
-## 3. Unity of Command
+# 3,4
 
-each person reports to only one boss
+refer [[Other Notes/Essentials of Management/Unity of Command Vs Unity of Direction]]
 
-## 4. Unity of Direction
+## 5. Equity
+managers should treat their subordinates in a fair kind and just manner
+although this doesnt mean they cant be harsh.
 
+## 6. Order
