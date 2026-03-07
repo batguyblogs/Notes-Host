@@ -1,8 +1,8 @@
 ---
 publish: true
 comments: true
-created: 2026-03-06T21:53:32.069+05:30
-modified: 2026-03-06T21:53:32.069+05:30
+created: 2026-03-06T18:55:22.671+05:30
+modified: 2026-03-06T21:53:32.070+05:30
 tags:
   - DetailedNotes
   - EOM
@@ -49,7 +49,7 @@ look at [[Other Notes/Essentials of Management/Classification of Industries]]
 
 They are responsible for planning, organizing, leading, and controlling resources and activities within an [[Other Notes/Essentials of Management/organization]] to achieve specific goals.
 
-Managers play a crucial role in ensuring that their team or department operates efficiently and effectively, aligning with the  overall objectives of the [[Other Notes/Essentials of Management/organization]].
+Managers play a crucial role in ensuring that their team or department operates efficiently and effectively, aligning with the  overall objectives of the organization.
 
 read more -> [[Other Notes/Essentials of Management/Functions of managers]]
 
