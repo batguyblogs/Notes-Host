@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-06T18:53:20.853+05:30
-modified: 2026-03-07T07:47:31.934+05:30
+modified: 2026-03-07T08:26:30.337+05:30
 tags:
   - DetailedNotes
   - EOM
@@ -128,3 +128,26 @@ arrangement of things is called **Material Order** and placement of people is ca
 >[!note] Material order 
 >There should be safe, appropriate and specific place for every article and every place to be effectively used for a specific activity and commodity.
 
+## 7. Discipline
+
+it means *sincerity, obedience, respect of authority & observeance of rules and regulations of the enterprise*".
+
+the principle applies that subordinate should respect their superiors and obey their order.
+
+it is not only required on the part of subordinates but also on the part of management.
+
+it can be enforced if there are good superiors at all levels.
+there are clear & fair agreements with workers.
+sanctions ( punishments ) are judiciously applied.
+
+# 8. Initiative
+workers should be encouraged to take initiative in the work assigned to them. It means *eagerness to initiate actions without being asked to do so*.
+
+Fayol advised that managements should provide opportunities where employees can suggest ideas, experiences & new methods of work.
+
+this helps build an **atmosphere of trust and understanding**. 
+
+one can use monetary and non monetary incentives to encourage initiative
+# 9.  Fair Remuneration
+
+the amount and method of remuneration ( big fancy word for money or salary ) to be paid to the workers should be fair, resonable, satisfactory & rewarding of the efforts. 

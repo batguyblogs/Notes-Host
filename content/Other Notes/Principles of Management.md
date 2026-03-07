@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-07T07:05:11.555+05:30
-modified: 2026-03-07T07:41:37.441+05:30
+modified: 2026-03-07T08:24:14.479+05:30
 tags:
   - EOM
 cssclasses: ""
@@ -29,3 +29,14 @@ managers should treat their subordinates in a fair kind and just manner
 although this doesnt mean they cant be harsh.
 
 ## 6. Order
+keep people and articles in an assigned easy to query place!
+
+## 7. Discipline
+come on you know what discipline is just yap
+
+# 8. Initiative 
+
+~~roll for initiative~~  management should encourage employees to show initiative in bringing new ideas experiences and feedback.
+
+# 9. 
+
