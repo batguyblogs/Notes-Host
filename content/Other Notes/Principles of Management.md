@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-07T07:05:11.555+05:30
-modified: 2026-03-07T08:34:52.892+05:30
+modified: 2026-03-07T08:37:45.881+05:30
 tags:
   - EOM
 cssclasses: ""
@@ -34,12 +34,12 @@ keep people and articles in an assigned easy to query place!
 ## 7. Discipline
 come on you know what discipline is just yap
 
-# 8. Initiative 
+## 8. Initiative 
 
 ~~roll for initiative~~  management should encourage employees to show initiative in bringing new ideas experiences and feedback.
 
-# 9. Fair Remuneration
+## 9. Fair Remuneration
 pay the workers well 
-based on factors like cost of living, work assigned, financial position of the business, wage rate prevailing etc.
+based on factors like cost of living, work assigned, financial position of the business, minimum wage etc
 
-
+## 10. 

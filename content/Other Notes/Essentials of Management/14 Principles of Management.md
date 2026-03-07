@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-06T18:53:20.853+05:30
-modified: 2026-03-07T08:33:57.895+05:30
+modified: 2026-03-07T08:37:49.282+05:30
 tags:
   - DetailedNotes
   - EOM
@@ -158,3 +158,4 @@ Wages should be determined on the basis of cost of living, work assigned, financ
 
 Fayol also advocated provision of other benefits such as *free education*, *medical & residential facilities* to workers.
 
+## 10. 
