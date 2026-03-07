@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-06T18:53:20.853+05:30
-modified: 2026-03-07T08:26:30.337+05:30
+modified: 2026-03-07T08:33:57.895+05:30
 tags:
   - DetailedNotes
   - EOM
@@ -150,4 +150,11 @@ this helps build an **atmosphere of trust and understanding**.
 one can use monetary and non monetary incentives to encourage initiative
 # 9.  Fair Remuneration
 
-the amount and method of remuneration ( big fancy word for money or salary ) to be paid to the workers should be fair, resonable, satisfactory & rewarding of the efforts. 
+the amount and method of remuneration ( big fancy word for money or salary ) to be paid to the workers should be fair, reasonable, satisfactory & rewarding of the efforts.
+
+it should strive to satisfy both the employer and the employees.
+
+Wages should be determined on the basis of cost of living, work assigned, financial position of the business, wage rate prevailing etc.
+
+Fayol also advocated provision of other benefits such as *free education*, *medical & residential facilities* to workers.
+

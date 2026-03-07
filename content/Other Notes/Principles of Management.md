@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-07T07:05:11.555+05:30
-modified: 2026-03-07T08:24:14.479+05:30
+modified: 2026-03-07T08:34:52.892+05:30
 tags:
   - EOM
 cssclasses: ""
@@ -38,5 +38,8 @@ come on you know what discipline is just yap
 
 ~~roll for initiative~~  management should encourage employees to show initiative in bringing new ideas experiences and feedback.
 
-# 9. 
+# 9. Fair Remuneration
+pay the workers well 
+based on factors like cost of living, work assigned, financial position of the business, wage rate prevailing etc.
+
 
