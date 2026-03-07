@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-07T07:05:11.555+05:30
-modified: 2026-03-07T09:37:44.810+05:30
+modified: 2026-03-07T09:52:13.911+05:30
 tags:
   - EOM
   - quickread
@@ -21,7 +21,7 @@ this leads to profits
 
 authority without responsibility and vice versa will cause problems.
 
-# 3,4
+## 3. Unity of Command, 4. Unity of Direction
 
 refer [[Other Notes/Essentials of Management/Unity of Command Vs Unity of Direction]]
 
