@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-06T18:53:20.853+05:30
-modified: 2026-03-07T08:37:49.282+05:30
+modified: 2026-03-07T09:21:16.622+05:30
 tags:
   - DetailedNotes
   - EOM
@@ -40,7 +40,7 @@ These principles are derived on the basis of:
 
 Also See -> The Japanese [[Other Notes/Essentials of Management/5S workplace organization]] method.
 
-and [[Other Notes/Principles of Management\|quick notes.]]
+and [[Other Notes/Essentials of Management/Principles of Management\|quick notes.]]
 ## 1. Division of Labour
 Henri Fayol stressed on the **specialization of jobs**.
 
@@ -158,4 +158,60 @@ Wages should be determined on the basis of cost of living, work assigned, financ
 
 Fayol also advocated provision of other benefits such as *free education*, *medical & residential facilities* to workers.
 
-## 10. 
+## 10.  Stability of Tenure
+
+Fayol was of the opinion that employees should not be moved frequently between roles, or different positions. 
+
+according to him, time is required for employees to get used to and then succeed in a job, but if they are moved they would not be able to render worthwhile services.
+
+which would result in wastage of time, effort and money spent of training the worker.
+
+>[!quote] 
+>" Stability of job **creates team spirit** and a sense of belongingness among workers which ultimately increases the quality AND quantity of Work done.
+
+## 11. Scalar Chain
+
+'The chain of superiors ranging from the ultimate authority to the lowest'
+
+every order, instruction, message, request and explanation has to pass through Scalar chain.
+
+But for the sake of convenience and urgency, this path can be cut short, in whats known as a **Gang Plank**
+
+>[!note] Gang Plank
+>is  a temporary arrangement between two different points to facilitate quick and easy communication. 
+>
+>it clarifies that management principles are not rigid rather they are very flexible. They can be moulded and modified as per the requirements of situations
+
+## 12. Subordination of individual interest to general interest
+
+an [[Other Notes/Essentials of Management/organization]] is mush bigger than the individual it constitutes $\therefore$ interest of the organization should prevail in all circumstances.
+
+reconciliation should be achieved between individual and group interests.
+
+but in case of conflict, individual must sacrifice for bigger interests.
+
+in order to acheive this attitude, its essential that 
+employees should be honest & sincere 
+proper and regular supervision of work
+reconciliation of mutual differences and clashes by mutual agreement. 
+
+## 13. Esprit De' Corps
+
+To inculcate Esprit De' Corps:
+proper coordination of work at all levels 
+subordinates encouraged to develop informal relations among themselves
+efforts made to create enthusiasm and keenness among subordinates 
+efficient employees rewarded and those who are not up to the mark given a chance to improve their performance.
+
+this can be achieved through unity of command
+
+making sure people enjoy working in the [[Other Notes/Essentials of Management/organization]] makes them offer their best towards the organization.
+
+## 14. Centralization & De-Centralization
+
+Fayol says the "degree of centralization or decentralization depends on a number of factors like size of business, experience of superiors, dependability and ability of subordinates etc"
+
+anything which increases the role of subordinate is decentralization and vice versa
+
+he suggested that absolute centralization or decentralization is not feasible. the organization needs to find its own balance between the two. 
+
