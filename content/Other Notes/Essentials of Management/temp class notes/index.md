@@ -1,8 +1,8 @@
 ---
 publish: true
-title: whats this folder for?
+title: temporary class notes
 created: 2026-03-07T08:35:12.316+05:30
-modified: 2026-03-07T08:43:48.014+05:30
+modified: 2026-03-07T09:45:45.706+05:30
 cssclasses: ""
 ---
 
