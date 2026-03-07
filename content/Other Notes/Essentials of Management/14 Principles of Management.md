@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-06T18:53:20.853+05:30
-modified: 2026-03-07T07:43:26.606+05:30
+modified: 2026-03-07T07:47:31.934+05:30
 tags:
   - DetailedNotes
   - EOM
@@ -121,4 +121,10 @@ but equity does not mean total absence of harsness.
 this relates to the **proper & systematic arrangement of things and people.**
 
 arrangement of things is called **Material Order** and placement of people is called **Social order**
+
+>[!info] Social order
+>Selection and appointment of most suitable person on the suitable job. There should be a specific place for every one and everyone should have a specific place so that they can easily be contacted whenever need arises.
+
+>[!note] Material order 
+>There should be safe, appropriate and specific place for every article and every place to be effectively used for a specific activity and commodity.
 
