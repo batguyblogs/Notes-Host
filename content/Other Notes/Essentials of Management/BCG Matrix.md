@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-07T12:17:16.553+05:30
-modified: 2026-03-07T12:28:59.917+05:30
+modified: 2026-03-07T12:35:48.737+05:30
 tags:
   - EOM
   - quickread
@@ -29,3 +29,6 @@ Cash Cows - the best kind, milk them for as much money as you can get and then i
 >is the percentage change in the total size of a market ( by revenue, volume, or customers ) over a specific period, usually per year.
 
 
+also read! 
+![[Assets/Pasted image 20260307123456.png]]
+porter's generic strategy
