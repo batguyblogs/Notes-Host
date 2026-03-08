@@ -1,14 +1,12 @@
 ---
 publish: true
 created: 2026-03-04T14:17:25.681+05:30
-modified: 2026-03-05T15:23:22.719+05:30
+modified: 2026-03-08T10:53:54.951+05:30
+tags:
+  - DetailedNotes
+  - FC
 cssclasses: ""
 ---
-
-#DetailedNotes
-
->[!note] Class Notes Index 
->[[FC  _index class notes]]
 
 # What is Vehicle Dynamics? 
 to get to vehicle dynamics we first look at Dynamics, 
@@ -88,5 +86,11 @@ Apart from needing it for vehicles in general why [[EV]]s in general.
    Under Steer: Front tires lose grip first; the vehicle tends to go straight.
    Over Steer: Rear tires lose grip first; the vehicle tends to spin.
    Neutral steer: Ideal balance between front and rear grip.
-# Key aspects 
- 
+### Key aspects of vehicle dynamics. 
+
+the major components of vehicle dynamics are: 
+- Longitudinal dynamics ( Braking and Acceleration )
+- Ride characteristics ( Vertical dynamics or suspension characteristics )
+- Lateral and handling dynamics ( steering system performance)
+- Noise, Vibration and Harshness 
+
