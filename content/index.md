@@ -3,7 +3,7 @@ publish: true
 title: Welcome to my Notes!
 comments: true
 created: 2026-03-05T15:02:01.361+05:30
-modified: 2026-03-05T15:02:38.134+05:30
+modified: 2026-03-08T11:25:24.687+05:30
 cssclasses: ""
 ---
 
@@ -11,6 +11,9 @@ cssclasses: ""
 # Here ill be uploading my notes for the benefit of all of humanity 😎
 
 <-- look at the explorer to go through my notes. 
+
+if you are looking for midsem prep notes please go [[_midsemprep\|here]]
+
 
 If your coming here from my blog, hiiiii
 
