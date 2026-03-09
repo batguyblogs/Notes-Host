@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-08T23:09:29.336+05:30
-modified: 2026-03-09T07:38:51.567+05:30
+modified: 2026-03-09T09:33:21.856+05:30
 tags:
   - DetailedNotes
 cssclasses: ""
@@ -137,9 +137,20 @@ Defines motions like wheel travel, caster, camber, and toe angles.
 ## Degrees of Freedom in Analyzing Vehicle Dynamics
 In vehicle dynamics, degrees of freedom (DOF) refers to the number of independent motions that can be calculated in a vehicle model (or) Degrees of Freedom represent the independent motions a system can exhibit. 
 
--  6 DoF for body, 6 DoF for a suspension system
-- 2 DoF for steering system
+-  *6* DoF for body, *6* DoF for a suspension system
+- *2* DoF for steering system
 - A complete vehicle model requires 16 DoF
 - 16 higher-order simultaneous governing differential equations must be solved to simulate the behaviour.
 
-more coming...
+## Lateral Dynamics
+- *low speed* **turning** and **steering geometry**
+- *Understeer* and *Oversteer*
+- *Roll behaviour*
+- *Wheel slip* and *tyre characteristics* are the **vital parameters** for *vehicle handling*
+Lateral dynamics arise due to *cornering* of the vehicle. It is necessary to compute the magnitude of these disturbing forces in order to *design safety systems* like the **yaw stability control** and **active roll control**. Computing the roll characteristics serves as an input for the *design of suspension components* such as anti-roll bar etc. 
+
+## Vertical Dynamics
+- Characterized by suspension system parameters such as *spring stiffness*, *damping coefficient*, *ride rate* etc
+- Superior ride quality is achieved when the you incorporate *semi-active* / *active suspension* to the systems. **However** the entire vehicle's performance and safety is *governed* by the **tyre-road friction characteristics** *irrespective* of the *sophistication of the systems*. 
+The vertical dynamics performance of the vehicle is *very relevant* **especially** for *Indian road conditions* where *plenty of bumps*, *potholes* and *unevenness* are encountered. Many *international sellers* **tune their suspension system** to *meet and perform well* in the **Indian road conditions**.
+this assumes *more importance* in case of **EVs** since their *inherent weight* itself is **high**. The primary and critical requirement of vertical dynamics is to ensure **continuous tyre road grip**.
