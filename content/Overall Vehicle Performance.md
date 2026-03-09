@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-08T23:09:29.336+05:30
-modified: 2026-03-09T07:21:11.042+05:30
+modified: 2026-03-09T07:38:51.567+05:30
 tags:
   - DetailedNotes
 cssclasses: ""
@@ -142,3 +142,4 @@ In vehicle dynamics, degrees of freedom (DOF) refers to the number of independen
 - A complete vehicle model requires 16 DoF
 - 16 higher-order simultaneous governing differential equations must be solved to simulate the behaviour.
 
+more coming...
