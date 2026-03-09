@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-08T23:09:29.336+05:30
-modified: 2026-03-08T23:24:06.409+05:30
+modified: 2026-03-09T06:05:33.959+05:30
 tags:
   - DetailedNotes
 cssclasses: ""
@@ -32,4 +32,3 @@ cssclasses: ""
 - **External Conditions**:
     - *Weather*, *road quality*, and *traffic* significantly influence percieved performance. 
 
-to be continued...
