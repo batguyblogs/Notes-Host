@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2025-12-12T11:31:24.815+05:30
-modified: 2026-03-08T10:48:00.941+05:30
+modified: 2026-03-11T19:49:26.412+05:30
 tags:
   - EVs
 cssclasses: ""
@@ -13,3 +13,4 @@ EVs encompass **road** (*cars, buses, trucks, and personal transporters* ( *two 
 
 But for the purposes of this course we focus on **Electric Cars** for *dynamics*. and all **the road vehicles** for the *EV market*.
 
+![[Assets/Pasted image 20260311194924.png]]
