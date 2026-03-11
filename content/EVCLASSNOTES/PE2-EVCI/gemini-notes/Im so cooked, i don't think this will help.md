@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-11T07:26:16.437+05:30
-modified: 2026-03-11T07:26:59.693+05:30
+modified: 2026-03-11T11:00:08.837+05:30
 cssclasses: ""
 ---
 
@@ -117,15 +117,11 @@ PFC is mandatory in EVSE to ensure the input current follows a sinusoidal wavefo
 
   
 
-| Charger Type | Power Supply | Power Level | Approx. Charging Time (24kWh) |
-
-| :--- | :--- | :--- | :--- |
-
-| **Level 1 AC** | 120/230 VAC (12-16A) | Up to 2 kW | 12 - 17 Hours |
-
-| **Level 2 AC** | 208-240 VAC (15-80A) | Up to 20 kW | ~8 Hours |
-
-| **Level 3 DC** | 300-600 VDC (Max 400A) | 120 - 240 kW | < 30 Minutes |
+| Charger Type   | Power Supply           | Power Level  | Approx. Charging Time (24kWh) |
+| -------------- | ---------------------- | ------------ | ----------------------------- |
+| **Level 1 AC** | 120/230 VAC (12-16A)   | Up to 2 kW   | 12 - 17 Hours                 |
+| **Level 2 AC** | 208-240 VAC (15-80A)   | Up to 20 kW  | ~8 Hours                      |
+| **Level 3 DC** | 300-600 VDC (Max 400A) | 120 - 240 kW | < 30 Minutes                  |
 
   
 
