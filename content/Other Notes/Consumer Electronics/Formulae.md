@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-12T06:51:20.865+05:30
-modified: 2026-03-12T09:26:03.040+05:30
+modified: 2026-03-12T11:02:37.258+05:30
 tags:
   - quickread
 cssclasses: ""
@@ -63,18 +63,22 @@ $$
 $$
 ## for repairable systems 
 1) MTBF
-   $$
+
+$$
 MTBF = \dfrac{\text{Total operating time (uptime)}}{\text{Number of Failures}}
 $$
 2) Failure rate
    Assuming a constant failure rate ( exponential model), 
-   $$
+
+$$
 \lambda = \frac{1}{MTBF}
 $$
 3) Availability (steady-state)
    For an exponential repair/arrival model,
-   $$
+
+$$
 A \approx \frac{MTBF}{MTBF+MTTR}
 $$
+
 where $MTTR$ is mean time to repair. 
 
