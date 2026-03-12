@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-12T06:51:20.865+05:30
-modified: 2026-03-12T11:02:37.258+05:30
+modified: 2026-03-12T11:08:36.325+05:30
 tags:
   - quickread
 cssclasses: ""
@@ -31,7 +31,7 @@ v = n \lambda
 $$
 ## Relation between Velocity and Temperature
 
-if $v_{t}$ and $v_{o}$ are the velocities of sound at $t\celsius$ and $0\celsius$ respectively,
+if $v_{t}$ and $v_{o}$ are the velocities of sound at $t \celsius$ and $0 \celsius$ respectively,
 then 
 $$
 \frac{v_{t}}{v_{0}} = \sqrt{ \frac{T_{t}}{T_{0}} }
