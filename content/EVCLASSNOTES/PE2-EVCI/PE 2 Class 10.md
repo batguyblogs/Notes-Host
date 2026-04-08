@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-04-01T15:56:07.093+05:30
-modified: 2026-04-01T11:40:03.019+05:30
+modified: 2026-04-07T16:02:07.245+05:30
 tags:
   - ClassNotes
   - PE2
@@ -34,7 +34,7 @@ Cable design parameters include:
 - long term current capabilities 
 - short term current capabilities 
 
-CC, (continuous current) and $I_{sc}$ short circuit current 
+CC, (continuous current) and $I_{sc}$ short circuit current and duration of shrot circuit current
 
 read these for what kW kVA kVAR are
 
