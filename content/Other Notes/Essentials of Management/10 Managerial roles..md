@@ -70,7 +70,7 @@ in addition to which they have to inform and satisfy the influential people , of
 
 for example:
 Directors and shareholders must be advised about **financial performance**;
-Consumer groups must be assued that the organization is fulfilling its **[[Corporate Social Responsibility\|social responsibility]]**
+Consumer groups must be assued that the organization is fulfilling its **[[Other Notes/Essentials of Management/Corporate Social Responsibility\|social responsibility]]**
 Government officials must be satisfied that the organistion is **abiding by the law.**
 
 # Decisional role

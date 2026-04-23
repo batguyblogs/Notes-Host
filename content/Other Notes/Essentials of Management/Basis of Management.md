@@ -49,7 +49,7 @@ look at [[Other Notes/Essentials of Management/Classification of Industries]]
 
 They are responsible for planning, organizing, leading, and controlling resources and activities within an [[Other Notes/Essentials of Management/organization]] to achieve specific goals.
 
-Managers play a crucial role in ensuring that their team or department operates efficiently and effectively, aligning with the  overall objectives of the organization.
+Managers play a crucial role in ensuring that their team or department operates efficiently and effectively, aligning with the  overall objectives of the [[Other Notes/Essentials of Management/organization]].
 
 read more -> [[Other Notes/Essentials of Management/Functions of managers]]
 

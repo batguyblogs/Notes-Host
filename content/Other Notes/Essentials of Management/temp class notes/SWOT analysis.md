@@ -31,5 +31,5 @@ SWOT analysis assesses internal and external factors, as well as current and fut
 TOWS Matrix? 
 SO ST WO WT
 
-![[Pasted image 20260219134502.png]]
+
 
