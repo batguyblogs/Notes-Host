@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-23T15:54:02.813+05:30
-modified: 2026-04-29T22:19:58.451+05:30
+modified: 2026-04-30T09:15:02.833+05:30
 tags:
   - index
 cssclasses: ""
@@ -16,3 +16,4 @@ PDF's:
 # [[Question Banks/AMEV question bank]]
 
 ive linked the solutions ( ai gen ) below the question bank embed look there for options between gemini and claude ( although im biased to claude ).
+
