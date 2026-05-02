@@ -3,7 +3,7 @@ publish: true
 title: Welcome to my Notes!
 comments: true
 created: 2026-03-05T15:02:01.361+05:30
-modified: 2026-03-08T11:33:09.348+05:30
+modified: 2026-05-02T19:06:31.626+05:30
 cssclasses: ""
 ---
 
@@ -12,10 +12,17 @@ cssclasses: ""
 
 <-- look at the explorer to go through my notes. 
 
-**if you are looking for midsem prep notes please go [[_midsem\|here]]**
-
-
 If your coming here from my blog, hiiiii
+
+If not, go see [blog :D ](https://batguyblogs.github.io/Blog-Page/) ⬇
+
+I made both this and the blog page on obsidian and have it out here thanks to quartz,
+
+See the [documentation](https://quartz.jzhao.xyz) for how to get setup quartz.
+
+A huge thanks to [@saberzero1](https://github.com/saberzero1) who had the answers to all my smooth brain moments :D
+
+Sneak peak at my blog 🤭
 
 <iframe 
   src="https://batguyblogs.github.io/Blog-Page/" 
@@ -24,13 +31,5 @@ If your coming here from my blog, hiiiii
   style="border:none;">
 </iframe>
 
-If not, go see [blog :D ](https://batguyblogs.github.io/Blog-Page/) ⬆ 
-
-
-I made both this and the blog page on obsidian and have it out here thanks to quartz,
-
-See the [documentation](https://quartz.jzhao.xyz) for how to get setup quartz.
-
-A huge thanks to [@saberzero1](https://github.com/saberzero1) who had the answers to all my smooth brain moments :D
-
 Please comment if you think somethings missing or if anything doesnt work, or to remind me to publish some notes :D ⬇  
+
