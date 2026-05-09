@@ -108,19 +108,19 @@ HEAT EXCHANGERS
 
 | File                                                                                                                                 | title                                                                         | type   | status    | confidence |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ------ | --------- | ---------- |
-| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/14_HX_NTU_Effectiveness\|14_HX_NTU_Effectiveness]]           | NTU–Effectiveness Method                                                      | atomic | \-        | medium     |
-| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/13_HX_LMTD_vs_NTU\|13_HX_LMTD_vs_NTU]]                       | LMTD vs NTU Method — When to Use Which                                        | atomic | \-        | high       |
-| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/12_HX_Fouling\|12_HX_Fouling]]                               | Fouling and the Fouling Factor                                                | atomic | \-        | high       |
-| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/11_HX_OverallHTC_Simplified\|11_HX_OverallHTC_Simplified]]   | Overall Heat Transfer Coefficient — Simplified Form and Representative Values | atomic | \-        | high       |
-| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/10_HX_OverallHTC_Cylindrical\|10_HX_OverallHTC_Cylindrical]] | Overall Heat Transfer Coefficient — Cylindrical Geometry (Ui and Uo)          | atomic | \-        | high       |
-| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/09_HX_OverallHTC_PlaneWall\|09_HX_OverallHTC_PlaneWall]]     | Overall Heat Transfer Coefficient — Plane Wall                                | atomic | \-        | high       |
-| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/08_HX_LMTD_WorkedExamples\|08_HX_LMTD_WorkedExamples]]       | LMTD Method — Worked Examples                                                 | atomic | \-        | high       |
-| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/07_HX_LMTD\|07_HX_LMTD]]                                     | Logarithmic Mean Temperature Difference (LMTD)                                | atomic | \-        | high       |
-| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/06_HX_EnergyBalance\|06_HX_EnergyBalance]]                   | Heat Exchanger Energy Balance                                                 | atomic | \-        | high       |
-| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/05_HX_PhaseChange\|05_HX_PhaseChange]]                       | Phase-Change Heat Exchangers (Condensers and Evaporators)                     | atomic | \-        | high       |
-| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/04_HX_ShellAndTube\|04_HX_ShellAndTube]]                     | Shell-and-Tube Heat Exchanger                                                 | atomic | \-        | high       |
-| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/03_HX_FlowArrangements\|03_HX_FlowArrangements]]             | Heat Exchanger Flow Arrangements                                              | atomic | \-        | high       |
 | [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/02_HX_Classification\|02_HX_Classification]]                 | Heat Exchanger Classification                                                 | atomic | \-        | high       |
+| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/03_HX_FlowArrangements\|03_HX_FlowArrangements]]             | Heat Exchanger Flow Arrangements                                              | atomic | \-        | high       |
+| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/04_HX_ShellAndTube\|04_HX_ShellAndTube]]                     | Shell-and-Tube Heat Exchanger                                                 | atomic | \-        | high       |
+| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/05_HX_PhaseChange\|05_HX_PhaseChange]]                       | Phase-Change Heat Exchangers (Condensers and Evaporators)                     | atomic | \-        | high       |
+| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/06_HX_EnergyBalance\|06_HX_EnergyBalance]]                   | Heat Exchanger Energy Balance                                                 | atomic | \-        | high       |
+| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/07_HX_LMTD\|07_HX_LMTD]]                                     | Logarithmic Mean Temperature Difference (LMTD)                                | atomic | \-        | high       |
+| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/08_HX_LMTD_WorkedExamples\|08_HX_LMTD_WorkedExamples]]       | LMTD Method — Worked Examples                                                 | atomic | \-        | high       |
+| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/09_HX_OverallHTC_PlaneWall\|09_HX_OverallHTC_PlaneWall]]     | Overall Heat Transfer Coefficient — Plane Wall                                | atomic | \-        | high       |
+| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/10_HX_OverallHTC_Cylindrical\|10_HX_OverallHTC_Cylindrical]] | Overall Heat Transfer Coefficient — Cylindrical Geometry (Ui and Uo)          | atomic | \-        | high       |
+| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/11_HX_OverallHTC_Simplified\|11_HX_OverallHTC_Simplified]]   | Overall Heat Transfer Coefficient — Simplified Form and Representative Values | atomic | \-        | high       |
+| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/12_HX_Fouling\|12_HX_Fouling]]                               | Fouling and the Fouling Factor                                                | atomic | \-        | high       |
+| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/13_HX_LMTD_vs_NTU\|13_HX_LMTD_vs_NTU]]                       | LMTD vs NTU Method — When to Use Which                                        | atomic | \-        | high       |
+| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/14_HX_NTU_Effectiveness\|14_HX_NTU_Effectiveness]]           | NTU–Effectiveness Method                                                      | atomic | \-        | medium     |
 | [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/00_HeatExchanger_Hub\|00_HeatExchanger_Hub]]                 | Heat Exchangers — Hub                                                         | hub    | evergreen | high       |
 | [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/01_HeatExchanger_MOC\|01_HeatExchanger_MOC]]                 | Heat Exchangers — Map of Content                                              | MOC    | evergreen | high       |
 
@@ -132,8 +132,8 @@ HEAT EXCHANGERS
 
 | File                                                                                                                               | title                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/12_HX_Fouling\|12_HX_Fouling]]                             | Fouling and the Fouling Factor                                                |
 | [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/11_HX_OverallHTC_Simplified\|11_HX_OverallHTC_Simplified]] | Overall Heat Transfer Coefficient — Simplified Form and Representative Values |
+| [[Other Notes/EHT/Testing_something_out/HeatExchanger_Notes/12_HX_Fouling\|12_HX_Fouling]]                             | Fouling and the Fouling Factor                                                |
 
 
 ---
