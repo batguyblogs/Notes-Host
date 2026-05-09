@@ -1,7 +1,8 @@
 ---
 publish: true
+title: EV Class Notes
 created: 2026-03-08T11:53:20.822+05:30
-modified: 2026-03-08T12:03:33.789+05:30
+modified: 2026-05-09T10:43:15.447+05:30
 tags:
   - index
 cssclasses: ""
