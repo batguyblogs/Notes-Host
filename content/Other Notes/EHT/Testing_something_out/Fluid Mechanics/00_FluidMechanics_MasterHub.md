@@ -121,6 +121,16 @@ of ideal or fully-developed flow break down.
 
 | File                                                                                                                                     | title                                                  | type       | status     | confidence |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- | ---------- | ---------- |
+| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/24_PipesInSeries\|24_PipesInSeries]]                                 | Flow Through Pipes in Series (Compound Pipes)          | atomic     | evergreen  | high       |
+| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/23_HGL_TEL\|23_HGL_TEL]]                                             | Hydraulic Gradient Line and Total Energy Line          | atomic     | evergreen  | high       |
+| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/22_MoodyDiagram\|22_MoodyDiagram]]                                   | The Moody Diagram                                      | atomic     | evergreen  | medium     |
+| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/21_MinorLosses\|21_MinorLosses]]                                     | Minor Energy Losses in Pipes                           | atomic     | evergreen  | high       |
+| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/20_MajorLosses_DarcyWeisbach\|20_MajorLosses_DarcyWeisbach]]         | Major Losses — Darcy-Weisbach Equation                 | atomic     | evergreen  | high       |
+| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/19_LaminarFlow_Annulus\|19_LaminarFlow_Annulus]]                     | Laminar Flow Through a Circular Annulus                | atomic     | evergreen  | high       |
+| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/18_LaminarFlow_HagenPoiseuille\|18_LaminarFlow_HagenPoiseuille]]     | Laminar Flow Through Circular Pipes — Hagen-Poiseuille | atomic     | evergreen  | high       |
+| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/17_BernoulliRealFluid\|17_BernoulliRealFluid]]                       | Bernoulli's Equation for Real Fluids                   | atomic     | evergreen  | high       |
+| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/16_BernoullisEquation\|16_BernoullisEquation]]                       | Bernoulli's Equation                                   | atomic     | evergreen  | high       |
+| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/15_ContinuityEquation\|15_ContinuityEquation]]                       | Continuity Equation                                    | atomic     | evergreen  | high       |
 | [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/14_ReynoldsNumber\|14_ReynoldsNumber]]                               | Reynolds Number                                        | atomic     | evergreen  | high       |
 | [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/13_LaminarVsTurbulent_Flow\|13_LaminarVsTurbulent_Flow]]             | Laminar vs Turbulent Flow                              | atomic     | evergreen  | high       |
 | [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/12_FluidTypes_Newtonian\|12_FluidTypes_Newtonian]]                   | Fluid Types — Newtonian and Non-Newtonian              | atomic     | evergreen  | medium     |
@@ -133,16 +143,6 @@ of ideal or fully-developed flow break down.
 | [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/05_SolidVsFluid_ShearStress\|05_SolidVsFluid_ShearStress]]           | Solid vs Fluid — Shear Stress and Deformation          | atomic     | evergreen  | high       |
 | [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/04_FM_Subcategories\|04_FM_Subcategories]]                           | Subcategories of Fluid Mechanics                       | atomic     | evergreen  | high       |
 | [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/03_WhatIsFluid\|03_WhatIsFluid]]                                     | What Is a Fluid                                        | atomic     | evergreen  | high       |
-| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/15_ContinuityEquation\|15_ContinuityEquation]]                       | Continuity Equation                                    | atomic     | evergreen  | high       |
-| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/16_BernoullisEquation\|16_BernoullisEquation]]                       | Bernoulli's Equation                                   | atomic     | evergreen  | high       |
-| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/17_BernoulliRealFluid\|17_BernoulliRealFluid]]                       | Bernoulli's Equation for Real Fluids                   | atomic     | evergreen  | high       |
-| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/18_LaminarFlow_HagenPoiseuille\|18_LaminarFlow_HagenPoiseuille]]     | Laminar Flow Through Circular Pipes — Hagen-Poiseuille | atomic     | evergreen  | high       |
-| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/19_LaminarFlow_Annulus\|19_LaminarFlow_Annulus]]                     | Laminar Flow Through a Circular Annulus                | atomic     | evergreen  | high       |
-| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/20_MajorLosses_DarcyWeisbach\|20_MajorLosses_DarcyWeisbach]]         | Major Losses — Darcy-Weisbach Equation                 | atomic     | evergreen  | high       |
-| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/21_MinorLosses\|21_MinorLosses]]                                     | Minor Energy Losses in Pipes                           | atomic     | evergreen  | high       |
-| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/22_MoodyDiagram\|22_MoodyDiagram]]                                   | The Moody Diagram                                      | atomic     | evergreen  | medium     |
-| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/23_HGL_TEL\|23_HGL_TEL]]                                             | Hydraulic Gradient Line and Total Energy Line          | atomic     | evergreen  | high       |
-| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/24_PipesInSeries\|24_PipesInSeries]]                                 | Flow Through Pipes in Series (Compound Pipes)          | atomic     | evergreen  | high       |
 | [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/25_PipesInParallel\|25_PipesInParallel]]                             | Flow Through Pipes in Parallel                         | atomic     | evergreen  | high       |
 | [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/26_BoundaryLayer\|26_BoundaryLayer]]                                 | Boundary Layer and Boundary Layer Thickness            | atomic     | evergreen  | medium     |
 | [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/27_HeatExchangers_Placeholder\|27_HeatExchangers_Placeholder]]       | Heat Exchangers — Placeholder                          | atomic     | incomplete | low        |
@@ -159,10 +159,10 @@ of ideal or fully-developed flow break down.
 
 | File                                                                                                                               | title                                       | source                 |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ---------------------- |
+| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/22_MoodyDiagram\|22_MoodyDiagram]]                             | The Moody Diagram                           | FM_Notes.pdf           |
 | [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/12_FluidTypes_Newtonian\|12_FluidTypes_Newtonian]]             | Fluid Types — Newtonian and Non-Newtonian   | FM_Notes.pdf           |
 | [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/02d_AdvancedTopics_MOC\|02d_AdvancedTopics_MOC]]               | MOC — Advanced Topics                       | FM_Notes.pdf           |
 | [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/01d_AdvancedTopics_Hub\|01d_AdvancedTopics_Hub]]               | Domain Hub — Advanced Topics                | FM_Notes.pdf           |
-| [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/22_MoodyDiagram\|22_MoodyDiagram]]                             | The Moody Diagram                           | FM_Notes.pdf           |
 | [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/26_BoundaryLayer\|26_BoundaryLayer]]                           | Boundary Layer and Boundary Layer Thickness | FM_Notes.pdf           |
 | [[Other Notes/EHT/Testing_something_out/Fluid Mechanics/27_HeatExchangers_Placeholder\|27_HeatExchangers_Placeholder]] | Heat Exchangers — Placeholder               | NOT IN SOURCE MATERIAL |
 
