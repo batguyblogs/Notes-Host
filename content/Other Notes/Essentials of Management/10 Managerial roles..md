@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-07T09:25:51.739+05:30
-modified: 2026-03-07T10:55:35.381+05:30
+modified: 2026-06-05T09:21:17.117+05:30
 tags:
   - DetailedNotes
   - EOM
@@ -13,7 +13,7 @@ cssclasses: ""
 
 In his model, managers play 10 different roles, all organized into sets of behaviours allotted a position, that can be split into three basic categories. 
 
-![[Assets/Pasted image 20260307092926.png]]
+![[Assets/Pasted image 20260307092926.png|640]]
 
 # Interpersonal roles
 

@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-07T11:49:45.517+05:30
-modified: 2026-03-07T12:10:46.422+05:30
+modified: 2026-06-05T09:22:05.507+05:30
 tags:
   - DetailedNotes
   - EOM
@@ -48,5 +48,5 @@ is to bring together homogeneous jobs into groups and then decide the relation b
 8. Matrix
 a combination of the functional and the product/project patterns of departmentation in the same org structure.
 
-![[Assets/Pasted image 20260307121041.png]]
+![[Assets/Pasted image 20260307121041.png|640]]
 
