@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-03-07T09:53:05.467+05:30
-modified: 2026-03-07T10:58:18.276+05:30
+modified: 2026-06-09T13:05:08.490+05:30
 tags:
   - EOM
   - quickread
@@ -49,5 +49,5 @@ Quickly go through Henry Mintzberg's model!
    manager has to all the involuntary responses to pressures
 9. Resource allocator role
    they have the responsibility of deciding who will receive what in their organization 
-10. Negotiator
-    the manager has to keep on top of taking negotiations seriously
+10. Negotiator 
+    Studies of managerial work at all levels indicate that managers spend considerable time in negotiations. Negotiations are duties of the manager’s job; perhaps routine, they are not to be shirked.

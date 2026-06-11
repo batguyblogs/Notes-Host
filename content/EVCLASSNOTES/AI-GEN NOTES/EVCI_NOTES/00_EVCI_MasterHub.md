@@ -60,8 +60,8 @@ The EVCI ecosystem is fundamentally interdependent. **Hardware** choices (Domain
 | [[EVCLASSNOTES/AI-GEN NOTES/EVCI_NOTES/03_Ideal_Switch_Characteristics\|03_Ideal_Switch_Characteristics]]                     | Ideal Switch Characteristics            | atomic     | \-        | high       |
 | [[EVCLASSNOTES/AI-GEN NOTES/EVCI_NOTES/03_HV_Contactors_and_Precharge\|03_HV_Contactors_and_Precharge]]                       | HV Contactors and Pre-charge            | atomic     | \-        | high       |
 | [[EVCLASSNOTES/AI-GEN NOTES/EVCI_NOTES/03_HDEV_Charging_Scenarios\|03_HDEV_Charging_Scenarios]]                               | HDEV Charging Scenarios                 | atomic     | \-        | high       |
-| [[EVCLASSNOTES/AI-GEN NOTES/EVCI_NOTES/03_Grid_Distribution_Impacts\|03_Grid_Distribution_Impacts]]                           | Grid Distribution Impacts               | atomic     | \-        | high       |
 | [[EVCLASSNOTES/AI-GEN NOTES/EVCI_NOTES/03_Factors_Influencing_Switch_Transients\|03_Factors_Influencing_Switch_Transients]]   | Factors Influencing Switch Transients   | atomic     | \-        | high       |
+| [[EVCLASSNOTES/AI-GEN NOTES/EVCI_NOTES/03_Grid_Distribution_Impacts\|03_Grid_Distribution_Impacts]]                           | Grid Distribution Impacts               | atomic     | \-        | high       |
 | [[EVCLASSNOTES/AI-GEN NOTES/EVCI_NOTES/03_Electricity_Supply_Options\|03_Electricity_Supply_Options]]                         | Electricity Supply Options              | atomic     | \-        | high       |
 | [[EVCLASSNOTES/AI-GEN NOTES/EVCI_NOTES/03_EV_Charging_Standards_IEC_SAE_ISO\|03_EV_Charging_Standards_IEC_SAE_ISO]]           | EV Charging Standards (IEC, SAE, ISO)   | atomic     | \-        | high       |
 | [[EVCLASSNOTES/AI-GEN NOTES/EVCI_NOTES/03_EV_Breakeven_Analysis\|03_EV_Breakeven_Analysis]]                                   | EV Breakeven Analysis                   | atomic     | \-        | high       |
