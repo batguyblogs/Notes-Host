@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-06-09T09:07:45.233+05:30
-modified: 2026-06-11T11:38:35.392+05:30
+modified: 2026-06-11T11:40:31.345+05:30
 cssclasses: ""
 ---
 
@@ -128,7 +128,7 @@ In Britain, job security is important and so are resourcefulness, adaptability, 
 
 ![[Assets/Pasted image 20260610184432.png|640]]
 
-![[Assets/Pasted image 20260610184522.png]]
+![[Assets/Pasted image 20260610184522.png|640]]
 
 ![[Assets/Pasted image 20260610185013.png|640]]
 
@@ -201,169 +201,169 @@ it is a strategic management model that aims to improve the performance of an or
 
 ![[Assets/Pasted image 20260611101520.png|640]]
 
-![[Assets/Pasted image 20260611101952.png]]
+![[Assets/Pasted image 20260611101952.png|640]]
 
-![[Assets/Pasted image 20260611102026.png]]
+![[Assets/Pasted image 20260611102026.png|640]]
 
-![[Assets/Pasted image 20260611102110.png]]
+![[Assets/Pasted image 20260611102110.png|640]]
 
-![[Assets/Pasted image 20260611102126.png]]
+![[Assets/Pasted image 20260611102126.png|640]]
 
-![[Assets/Pasted image 20260611102137.png]]
+![[Assets/Pasted image 20260611102137.png|640]]
 
-![[Assets/Pasted image 20260611102147.png]]
+![[Assets/Pasted image 20260611102147.png|640]]
 
-![[Assets/Pasted image 20260611102241.png]]
+![[Assets/Pasted image 20260611102241.png|640]]
 
-![[Assets/Pasted image 20260611102355.png]]
+![[Assets/Pasted image 20260611102355.png|640]]
 
-![[Assets/Pasted image 20260611102433.png]]
+![[Assets/Pasted image 20260611102433.png|640]]
 
-![[Assets/Pasted image 20260611103324.png]]
+![[Assets/Pasted image 20260611103324.png|640]]
 
 
-![[Assets/Pasted image 20260611103311.png]]
+![[Assets/Pasted image 20260611103311.png|640]]
 
-![[Assets/Pasted image 20260611103343.png]]
+![[Assets/Pasted image 20260611103343.png|640]]
 
-![[Assets/Pasted image 20260611103924.png]]
+![[Assets/Pasted image 20260611103924.png|640]]
 
-![[Assets/Pasted image 20260611103934.png]]
+![[Assets/Pasted image 20260611103934.png|640]]
 
-![[Assets/Pasted image 20260611104002.png]]
+![[Assets/Pasted image 20260611104002.png|640]]
 
-![[Assets/Pasted image 20260611104009.png]]
+![[Assets/Pasted image 20260611104009.png|640]]
 
-![[Assets/Pasted image 20260611104017.png]]
+![[Assets/Pasted image 20260611104017.png|640]]
 
-![[Assets/Pasted image 20260611104024.png]]
+![[Assets/Pasted image 20260611104024.png|640]]
 
-![[Assets/Pasted image 20260611104035.png]]
+![[Assets/Pasted image 20260611104035.png|640]]
 
-![[Assets/Pasted image 20260611104738.png]]
+![[Assets/Pasted image 20260611104738.png|640]]
 
-![[Assets/Pasted image 20260611104836.png]]
+![[Assets/Pasted image 20260611104836.png|640]]
 
-![[Assets/Pasted image 20260611104959.png]]
+![[Assets/Pasted image 20260611104959.png|640]]
 
-![[Assets/Pasted image 20260611105006.png]]
+![[Assets/Pasted image 20260611105006.png|640]]
 
-![[Assets/Pasted image 20260611105041.png]]
+![[Assets/Pasted image 20260611105041.png|640]]
 
 # [[Other Notes/Essentials of Management/10 Priciples of Organizing]]
 
-![[Assets/Pasted image 20260611105405.png]]
+![[Assets/Pasted image 20260611105405.png|640]]
 
-![[Assets/Pasted image 20260611105413.png]]
+![[Assets/Pasted image 20260611105413.png|640]]
 
-![[Assets/Pasted image 20260611105427.png]]
+![[Assets/Pasted image 20260611105427.png|640]]
 
-![[Assets/Pasted image 20260611105445.png]]
+![[Assets/Pasted image 20260611105445.png|640]]
 
-![[Assets/Pasted image 20260611105452.png]]
+![[Assets/Pasted image 20260611105452.png|640]]
 
-![[Assets/Pasted image 20260611110420.png]]
+![[Assets/Pasted image 20260611110420.png|640]]
 
-![[Assets/Pasted image 20260611110433.png]]
+![[Assets/Pasted image 20260611110433.png|640]]
 
-![[Assets/Pasted image 20260611110458.png]]
+![[Assets/Pasted image 20260611110458.png|640]]
 
-![[Assets/Pasted image 20260611110642.png]]
+![[Assets/Pasted image 20260611110642.png|640]]
 
-![[Assets/Pasted image 20260611110728.png]]
+![[Assets/Pasted image 20260611110728.png|640]]
 
-![[Assets/Pasted image 20260611110735.png]]
+![[Assets/Pasted image 20260611110735.png|640]]
 
-![[Assets/Pasted image 20260611110744.png]]
+![[Assets/Pasted image 20260611110744.png|640]]
 
-![[Assets/Pasted image 20260611110758.png]]
+![[Assets/Pasted image 20260611110758.png|640]]
 
-![[Assets/Pasted image 20260611110816.png]]
+![[Assets/Pasted image 20260611110816.png|640]]
 
-![[Assets/Pasted image 20260611111051.png]]
+![[Assets/Pasted image 20260611111051.png|640]]
 
-![[Assets/Pasted image 20260611111116.png]]
+![[Assets/Pasted image 20260611111116.png|640]]
 
-![[Assets/Pasted image 20260611111133.png]]
+![[Assets/Pasted image 20260611111133.png|640]]
 
-![[Assets/Pasted image 20260611111141.png]]
+![[Assets/Pasted image 20260611111141.png|640]]
 
-![[Assets/Pasted image 20260611111150.png]]
+![[Assets/Pasted image 20260611111150.png|640]]
 
-![[Assets/Pasted image 20260611111158.png]]
+![[Assets/Pasted image 20260611111158.png|640]]
 
-![[Assets/Pasted image 20260611111203.png]]
+![[Assets/Pasted image 20260611111203.png|640]]
 
-![[Assets/Pasted image 20260611111208.png]]
+![[Assets/Pasted image 20260611111208.png|640]]
 
-![[Assets/Pasted image 20260611111222.png]]
+![[Assets/Pasted image 20260611111222.png|640]]
 
-![[Assets/Pasted image 20260611111242.png]]
+![[Assets/Pasted image 20260611111242.png|640]]
 
-![[Assets/Pasted image 20260611111251.png]]
+![[Assets/Pasted image 20260611111251.png|640]]
 
-![[Assets/Pasted image 20260611111257.png]]
+![[Assets/Pasted image 20260611111257.png|640]]
 
-![[Assets/Pasted image 20260611111303.png]]
+![[Assets/Pasted image 20260611111303.png|640]]
 
-![[Assets/Pasted image 20260611111308.png]]
+![[Assets/Pasted image 20260611111308.png|640]]
 
-![[Assets/Pasted image 20260611111315.png]]
+![[Assets/Pasted image 20260611111315.png|640]]
 
-![[Assets/Pasted image 20260611111321.png]]
+![[Assets/Pasted image 20260611111321.png|640]]
 
-![[Assets/Pasted image 20260611111328.png]]
+![[Assets/Pasted image 20260611111328.png|640]]
 
-![[Assets/Pasted image 20260611111345.png]]
+![[Assets/Pasted image 20260611111345.png|640]]
 
-![[Assets/Pasted image 20260611111352.png]]
+![[Assets/Pasted image 20260611111352.png|640]]
 
-![[Assets/Pasted image 20260611111513.png]]
+![[Assets/Pasted image 20260611111513.png|640]]
 
-![[Assets/Pasted image 20260611111519.png]]
+![[Assets/Pasted image 20260611111519.png|640]]
 
-![[Assets/Pasted image 20260611111523.png]]
+![[Assets/Pasted image 20260611111523.png|640]]
 
-![[Assets/Pasted image 20260611111529.png]]![[Assets/Pasted image 20260611111603.png]]
+![[Assets/Pasted image 20260611111529.png|640]]![[Assets/Pasted image 20260611111603.png|640]]
 
-![[Assets/Pasted image 20260611111613.png]]
+![[Assets/Pasted image 20260611111613.png|640]]
 
-![[Assets/Pasted image 20260611111618.png]]
+![[Assets/Pasted image 20260611111618.png|640]]
 
-![[Assets/Pasted image 20260611111624.png]]
+![[Assets/Pasted image 20260611111624.png|640]]
 
-![[Assets/Pasted image 20260611111635.png]]
+![[Assets/Pasted image 20260611111635.png|640]]
 
-![[Assets/Pasted image 20260611111917.png]]
+![[Assets/Pasted image 20260611111917.png|640]]
 
-![[Assets/Pasted image 20260611112915.png]]
+![[Assets/Pasted image 20260611112915.png|640]]
 
-![[Assets/Pasted image 20260611113132.png]]
+![[Assets/Pasted image 20260611113132.png|640]]
 
-![[Assets/Pasted image 20260611113151.png]]
+![[Assets/Pasted image 20260611113151.png|640]]
 
-![[Assets/Pasted image 20260611113206.png]]
+![[Assets/Pasted image 20260611113206.png|640]]
 
-![[Assets/Pasted image 20260611113250.png]]
+![[Assets/Pasted image 20260611113250.png|640]]
 
-![[Assets/Pasted image 20260611113500.png]]
+![[Assets/Pasted image 20260611113500.png|640]]
 
-![[Assets/Pasted image 20260611113525.png]]
+![[Assets/Pasted image 20260611113525.png|640]]
 
-![[Assets/Pasted image 20260611113646.png]]
+![[Assets/Pasted image 20260611113646.png|640]]
 
-![[Assets/Pasted image 20260611113658.png]]
+![[Assets/Pasted image 20260611113658.png|640]]
 
-![[Assets/Pasted image 20260611113708.png]]
+![[Assets/Pasted image 20260611113708.png|640]]
 
-![[Assets/Pasted image 20260611113715.png]]
+![[Assets/Pasted image 20260611113715.png|640]]
 
 
-![[Assets/Pasted image 20260611113724.png]]
+![[Assets/Pasted image 20260611113724.png|640]]
 
-![[Assets/Pasted image 20260611113743.png]]
+![[Assets/Pasted image 20260611113743.png|640]]
 
-![[Assets/Pasted image 20260611113749.png]]
+![[Assets/Pasted image 20260611113749.png|640]]
 
-![[Assets/Pasted image 20260611113833.png]]
+![[Assets/Pasted image 20260611113833.png|640]]
 
